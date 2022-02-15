@@ -19,3 +19,9 @@
 - Please view [this video](https://youtu.be/DjhthBTXvXg) to learn how to run MySQL commands from a file. This will make working with Goorm much easier!
 - If you have any questions, please ask them in the [course Q&A](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/questions/) or visit our [Discord server](https://discord.gg/QAKp9tfgZy) and ask them there.
 - Now that you've completed all of the steps above, please continue on with [the next section](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/lecture/7048184#overview) in the course.
+
+# Running mySQL in the container
+
+- To start mySQL instance type mysql-ctl cli.
+- To run a sql file, use the command 'source' followed filename.
+- To exit the instance type exit.
